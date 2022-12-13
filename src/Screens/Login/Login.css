@@ -1,0 +1,43 @@
+.container1 {
+   align-self: center;
+   align-items: center;
+   align-content: center;
+   margin-left: 20%;
+   background-color: whitesmoke;
+    border: 5 black solid;
+     height: 100%;
+    margin-top: 5%;
+    width: 60%;
+  }
+  .header{
+    text-align: center;
+  }
+  .inputemail{
+    margin-left: 40px
+  }
+  .textinput{
+    padding-left: 30px;
+  }
+  .checkbox1{
+flex-direction: row;
+  
+  }
+  .login{
+    width: 48%;
+    background-color:#e34234;
+    margin-left: 40px;
+  }
+  .forgot{
+    text-align: right;
+    margin-right: 35px;
+  }
+  .icon{
+    align-items: center;
+    align-self: center;
+    align-content: center;
+    margin-left: 45%;
+    
+  }
+  .signup{
+    text-align: center;
+  }
